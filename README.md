@@ -2,8 +2,6 @@
 
 一组尝试将 coding-ui-kit 重构为 antd 的 codemod 脚本集合，基于 [jscodeshift](https://github.com/facebook/jscodeshift) 构建。(受 [codemod-v4](https://github.com/ant-design/codemod-v4) 启发)
 
-[![CircleCI](https://circleci.com/gh/theprimone/codemod-coding-uikit.svg?style=svg)](https://circleci.com/gh/ant-design/codemod-v4)
-
 ## 使用
 
 TODO
